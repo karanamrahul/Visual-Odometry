@@ -17,6 +17,14 @@ This project explains how to implement a visual odometry for a stereo camera sys
 
 Please downlaod the dataset from this [drive link](https://drive.google.com/drive/folders/1XbLQADGrB_WN5mZ-QMd1rzsP1wD1nOR2?usp=sharing).
 
+### Packages needed 
+
+- Opencv2
+- Numpy
+- Numba
+- Matplotlib
+- scipy
+
 
 ### Steps to Run the code 
 
